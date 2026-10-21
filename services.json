@@ -1,0 +1,16 @@
+{
+  "services": [
+    {
+      "name": "svc-billing",
+      "repo": "Anthony-Rose/svc-billing"
+    },
+    {
+      "name": "svc-catalog",
+      "repo": "Anthony-Rose/svc-catalog"
+    },
+    {
+      "name": "svc-reports",
+      "repo": "Anthony-Rose/svc-reports"
+    }
+  ]
+}
